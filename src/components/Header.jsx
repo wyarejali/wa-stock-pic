@@ -11,7 +11,7 @@ const Header = () => {
           <div className='menu'>
             <ul>
               <li>
-                <a className='btn' href='/'>
+                <a className='btn' href='https://wyarejali.vercel.app/'>
                   Go to Root
                 </a>
               </li>
